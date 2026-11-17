@@ -1,0 +1,5 @@
+utterance_id,speaker_id,file_path,source_file_id,duration_s,sr,condition,split
+p225_003_mic2_noise20,p225,data/mismatch_examples/p225_003_mic2_noise20.wav,p225_003_mic2,7.588145833333333,16000,noise20,calibration
+p225_003_mic2_noise10,p225,data/mismatch_examples/p225_003_mic2_noise10.wav,p225_003_mic2,7.588145833333333,16000,noise10,calibration
+p225_003_mic2_telephone,p225,data/mismatch_examples/p225_003_mic2_telephone.wav,p225_003_mic2,7.588145833333333,16000,telephone,calibration
+p225_003_mic2_duration2s,p225,data/mismatch_examples/p225_003_mic2_duration2s.wav,p225_003_mic2,2.0,16000,duration2s,calibration

@@ -1,0 +1,2 @@
+scores/**/*.csv filter=lfs diff=lfs merge=lfs -text
+scores/*.csv filter=lfs diff=lfs merge=lfs -text

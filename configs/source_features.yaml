@@ -1,0 +1,14 @@
+sr: 16000
+
+pitch_floor_hz: 70
+pitch_ceiling_hz: 400
+minimum_voiced_frames: 20
+
+features:
+  - f0_median
+  - f0_std
+  - f0_p90_p10
+  - jitter_local
+  - shimmer_local
+  - hnr_db
+  - spectral_tilt
